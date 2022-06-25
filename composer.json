@@ -1,5 +1,5 @@
 {
-    "name": "pavlaq/przelewy24-bundle",
+    "name": "pavlaq/przelewy24-bundle-fork",
     "description": "This is Symfony 3.3+ P24 Bundle.",
     "type": "symfony-bundle",
     "license": [
@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "pavlaq\\Przelewy24Bundle\\": ""
+            "pavlaq\\Przelewy24BundleFork\\": ""
         }
     },
     "extra": {
